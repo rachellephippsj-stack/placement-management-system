@@ -71,7 +71,15 @@ SELECT * FROM Eligible_Students_View;
 | File | Description |
 |------|-------------|
 | `placement_system_full.sql` | Complete database: tables, constraints, 336 records, and the view |
+| `Placement_System_Portfolio_Rachelle_Phipps.pdf` | Full portfolio document — assumptions, ER diagram, entity specs, CREATE scripts, queries, and screenshots |
+| `screenshots/` | APEX screenshots of the ER diagram, each reporting query, and the view |
 | `README.md` | This file |
+
+## Portfolio Document
+
+The complete write-up — including the ER diagram, entity specifications, CREATE scripts, and annotated query results — is available as a PDF:
+
+📄 **[Placement_System_Portfolio_Rachelle_Phipps.pdf](Placement_System_Portfolio_Rachelle_Phipps.pdf)**
 
 ---
 
